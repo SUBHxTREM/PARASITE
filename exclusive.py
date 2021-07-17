@@ -14,6 +14,6 @@ ANIMATED_STICKER_PNAME = os.environ.get("ANIMATED_STICKER_PNAME", "Creepy Animat
 
 AUTONAME = os.environ.get("AUTONAME", None)
 
-CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/TechnoAyanBoT/80")
+CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/PARASITE_CHATS")
 
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
